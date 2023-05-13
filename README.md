@@ -17,5 +17,3 @@ Observing various network traffic to and from Azure Virtual Machines with Wiresh
 
 - Windows 10
 - Ubuntu Server 20.04
-
-<h2>High-Level Steps</h2>
